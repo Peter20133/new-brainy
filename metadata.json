@@ -1,0 +1,6 @@
+{
+  "name": "Brainy AI",
+  "description": "Tutorul tău AI pentru școală — fotografiază, învață, rezolvă teme și testează-ți cunoștințele.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
